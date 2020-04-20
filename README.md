@@ -13,8 +13,10 @@
 
 <div> 
   <h2> :computer: Techs: </h2> 
-  <p> This project was built iusing the following technologies: 
-    -   [HTML](https://devdocs.io/html/) 
+  <p> This project was built iusing the following technologies:
+    <br/>
+    -   [HTML](https://devdocs.io/html/)
+    <br/>
     -   [CSS](https://devdocs.io/css/) 
   </p> 
 </div>
