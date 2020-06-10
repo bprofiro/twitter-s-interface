@@ -1,19 +1,19 @@
 <h1 align="center"> 
-  🖥 Twitter's Interface 
+  <img src="https://uploads.filipeflop.com/2016/10/twitter-logo.png" />
 </h3> 
 
 <p align="center"> 
-  <img src="https://github.com/bprofiro/assets/blob/master/dark-twitter.png"/> 
+  <img src="https://github.com/bprofiro/assets/blob/master/dark-twitter.png"/>
 </p> 
  
 <div> 
   <h2> :rocket: About the project: </h2> 
-  <p> Just a simple copy of the Twitter's interface using HTML and CSS using Flexbox. </p> 
+  <p> Apenas uma cópia simples da interface do Twitter usando HTML e CSS usando Flexbox. </p> 
 </div> 
 
 <div> 
   <h2> :computer: Techs: </h2> 
-  <p> This project was built iusing the following technologies:
+  <p> Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
     <br/>
     -   [HTML](https://devdocs.io/html/)
     <br/>
